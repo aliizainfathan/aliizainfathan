@@ -12,33 +12,26 @@ Currently learning and building projects with modern web technologies.
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
+</p>
 
-`PHP` `Python` `JavaScript` `C++` `Java` `Elixir`
+### ⚡ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=phoenix,laravel,react,flask" />
+</p>
 
-**Web Development**
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-`Laravel` `Phoenix` `React` `Tailwind CSS` `Bootstrap`
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,tailwind,bootstrap,vite" />
+</p>
 
-**Database & Tools**
-
-`MySQL` `PostgreSQL` `Git` `Docker` `Linux`
-
----
-
-## 🚀 Featured Projects
-
-### Helpdesk Ticketing System
-Phoenix LiveView · PostgreSQL · Tailwind CSS
-
-> A real-time ticketing system for managing support requests.
-
-### Data Science Projects
-Python · Pandas · Scikit-learn
-
-> Machine learning and data analysis projects.
-
----
 
 ### 📫 Let's Connect
 
