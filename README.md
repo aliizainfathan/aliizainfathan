@@ -10,7 +10,7 @@ Currently learning and building projects with modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 <p>
@@ -19,7 +19,7 @@ Currently learning and building projects with modern web technologies.
 
 ### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=phoenix,laravel,streamlit,flask" />
+  <img src="https://skillicons.dev/icons?i=phoenix,laravel,streamlit,flask,jquery" />
 </p>
 
 ### 🗄️ Database
