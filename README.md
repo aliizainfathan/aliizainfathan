@@ -11,16 +11,26 @@ Currently learning and building projects with modern web technologies.
 ---
 
 <p align="center">
-  <h2>TECH STACK</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
-    <img src="https://skillicons.dev/icons?i=laravel,flask,jquery,css,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-    <img src="https://skillicons.dev/icons?i=git,github,tailwind,minio" />
-  </a>
+
+<h2>TECH STACK</h2>
+
+<img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=laravel,flask,jquery,css,tailwind,bootstrap" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,minio" />
+
 </p>
 
-
+---
 
 ### 📫 Let's Connect
 
