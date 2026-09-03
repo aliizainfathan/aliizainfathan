@@ -10,7 +10,7 @@ Currently learning and building projects with modern web technologies.
 
 ---
 
-<div align="center" display="flex">
+<div align="center" style="display:flex; flex-direction:column">
 
 ## 🛠️ TECH STACK
 
