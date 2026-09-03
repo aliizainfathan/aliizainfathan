@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Fathan
 
-<!--
-**aliizainfathan/aliizainfathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Backend & Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student who enjoys building web applications,
+exploring backend technologies, and working with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **Elixir, Phoenix, Phoenix LiveView, PostgreSQL, and MinIO**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="./tech-stack.svg" alt="Tech Stack" width="850">
+</p>
+
+### 🤖 Data Science & Machine Learning
+
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Librosa` · `TSFEL`
+
+### 🌐 Web Development
+
+`Elixir` · `Phoenix` · `Phoenix LiveView` · `PHP` · `Laravel` · `HTML/CSS` · `Tailwind CSS`
+
+### 🗄️ Database & Storage
+
+`PostgreSQL` · `MySQL` · `Ecto` · `MinIO / S3`
+
+### 🔧 Tools
+
+`Git` · `GitHub` · `VS Code`
+
+---
+
+> Keep learning. Keep building.

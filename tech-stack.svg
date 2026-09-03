@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<rect width="100%" height="100%" rx="24" fill="transparent"/>
+<style>
+.title { font: 700 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #24292f; }
+.percent { font: 700 20px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #24292f; }
+</style>
+
+  <g>
+    <circle cx="120" cy="115" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="120" cy="115" r="52" fill="none" stroke="#4B275F" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="277.72 49.01"
+      transform="rotate(-90 120 115)"/>
+    <text x="120" y="122" text-anchor="middle" class="percent">85%</text>
+    <text x="120" y="203" text-anchor="middle" class="title">Elixir</text>
+  </g>
+  <g>
+    <circle cx="340" cy="115" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="340" cy="115" r="52" fill="none" stroke="#F05454" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="277.72 49.01"
+      transform="rotate(-90 340 115)"/>
+    <text x="340" y="122" text-anchor="middle" class="percent">85%</text>
+    <text x="340" y="203" text-anchor="middle" class="title">Phoenix</text>
+  </g>
+  <g>
+    <circle cx="560" cy="115" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="560" cy="115" r="52" fill="none" stroke="#F05454" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="261.38 65.35"
+      transform="rotate(-90 560 115)"/>
+    <text x="560" y="122" text-anchor="middle" class="percent">80%</text>
+    <text x="560" y="203" text-anchor="middle" class="title">LiveView</text>
+  </g>
+  <g>
+    <circle cx="780" cy="115" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="780" cy="115" r="52" fill="none" stroke="#3776AB" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="261.38 65.35"
+      transform="rotate(-90 780 115)"/>
+    <text x="780" y="122" text-anchor="middle" class="percent">80%</text>
+    <text x="780" y="203" text-anchor="middle" class="title">Python</text>
+  </g>
+  <g>
+    <circle cx="120" cy="305" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="120" cy="305" r="52" fill="none" stroke="#150458" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="245.04 81.68"
+      transform="rotate(-90 120 305)"/>
+    <text x="120" y="312" text-anchor="middle" class="percent">75%</text>
+    <text x="120" y="393" text-anchor="middle" class="title">Pandas</text>
+  </g>
+  <g>
+    <circle cx="340" cy="305" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="340" cy="305" r="52" fill="none" stroke="#F7931E" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="228.71 98.02"
+      transform="rotate(-90 340 305)"/>
+    <text x="340" y="312" text-anchor="middle" class="percent">70%</text>
+    <text x="340" y="393" text-anchor="middle" class="title">Scikit-learn</text>
+  </g>
+  <g>
+    <circle cx="560" cy="305" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="560" cy="305" r="52" fill="none" stroke="#4169E1" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="245.04 81.68"
+      transform="rotate(-90 560 305)"/>
+    <text x="560" y="312" text-anchor="middle" class="percent">75%</text>
+    <text x="560" y="393" text-anchor="middle" class="title">PostgreSQL</text>
+  </g>
+  <g>
+    <circle cx="780" cy="305" r="52" fill="none" stroke="#e9ecef" stroke-width="10"/>
+    <circle cx="780" cy="305" r="52" fill="none" stroke="#777BB4" stroke-width="10"
+      stroke-linecap="round" stroke-dasharray="228.71 98.02"
+      transform="rotate(-90 780 305)"/>
+    <text x="780" y="312" text-anchor="middle" class="percent">70%</text>
+    <text x="780" y="393" text-anchor="middle" class="title">PHP</text>
+  </g></svg>
