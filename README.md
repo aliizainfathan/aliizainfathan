@@ -1,36 +1,45 @@
-# 👋 Hi, I'm Fathan
+# 👋 Hi, I'm Fathan Ali
 
-### 💻 Backend & Full-Stack Developer
+### Informatics Engineering Student
 
-I'm a Computer Engineering student who enjoys building web applications,
-exploring backend technologies, and working with data.
+I'm interested in **Web Development, Backend Development, and Data Science**.
 
-Currently exploring **Elixir, Phoenix, Phoenix LiveView, PostgreSQL, and MinIO**.
+Currently learning and building projects with modern web technologies.
+
+[Portfolio](#) · [LinkedIn](#) · [GitHub](https://github.com/aliizainfathan)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="./tech-stack.svg" alt="Tech Stack" width="850">
-</p>
+**Languages**
 
-### 🤖 Data Science & Machine Learning
+`PHP` `Python` `JavaScript` `C++` `Java` `Elixir`
 
-`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Librosa` · `TSFEL`
+**Web Development**
 
-### 🌐 Web Development
+`Laravel` `Phoenix` `React` `Tailwind CSS` `Bootstrap`
 
-`Elixir` · `Phoenix` · `Phoenix LiveView` · `PHP` · `Laravel` · `HTML/CSS` · `Tailwind CSS`
+**Database & Tools**
 
-### 🗄️ Database & Storage
-
-`PostgreSQL` · `MySQL` · `Ecto` · `MinIO / S3`
-
-### 🔧 Tools
-
-`Git` · `GitHub` · `VS Code`
+`MySQL` `PostgreSQL` `Git` `Docker` `Linux`
 
 ---
 
-> Keep learning. Keep building.
+## 🚀 Featured Projects
+
+### Helpdesk Ticketing System
+Phoenix LiveView · PostgreSQL · Tailwind CSS
+
+> A real-time ticketing system for managing support requests.
+
+### Data Science Projects
+Python · Pandas · Scikit-learn
+
+> Machine learning and data analysis projects.
+
+---
+
+### 📫 Let's Connect
+
+Feel free to explore my repositories and projects.
