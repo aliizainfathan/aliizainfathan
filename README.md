@@ -10,9 +10,9 @@ Currently learning and building projects with modern web technologies.
 
 ---
 
-<p align="center">
+<div align="center">
 
-<h2>TECH STACK</h2>
+## 🛠️ TECH STACK
 
 <img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
 
@@ -28,7 +28,7 @@ Currently learning and building projects with modern web technologies.
 
 <img src="https://skillicons.dev/icons?i=git,github,minio" />
 
-</p>
+</div>
 
 ---
 
