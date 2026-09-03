@@ -10,28 +10,16 @@ Currently learning and building projects with modern web technologies.
 
 ---
 
-## Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
+<p align="center">
+  <h2>TECH STACK</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=laravel,flask,jquery,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,tailwind,minio" />
+  </a>
 </p>
 
-### ⚡ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask,jquery" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="48" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,tailwind,bootstrap" />
-</p>
 
 
 ### 📫 Let's Connect
