@@ -19,7 +19,7 @@ Currently learning and building projects with modern web technologies.
 
 ### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=phoenix,laravel,react,flask" />
+  <img src="https://skillicons.dev/icons?i=phoenix,laravel,streamlit,flask" />
 </p>
 
 ### 🗄️ Database
@@ -29,7 +29,7 @@ Currently learning and building projects with modern web technologies.
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,tailwind,bootstrap" />
 </p>
 
 
