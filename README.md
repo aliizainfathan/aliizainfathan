@@ -10,17 +10,22 @@ Currently learning and building projects with modern web technologies.
 
 ---
 
-<div align="center" style="display:flex; flex-direction:column">
+<div align="center">
 
 ## 🛠️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
-
-<img src="https://skillicons.dev/icons?i=laravel,flask,jquery,css,tailwind,bootstrap" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<img src="https://skillicons.dev/icons?i=git,github,minio" />
+<div>
+  <img src="https://skillicons.dev/icons?i=python,elixir,php,java,javascript" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=laravel,flask,jquery,css,tailwind,bootstrap" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,minio" />
+</div>
 
 </div>
 
