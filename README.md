@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Fathan Ali
+# Hi, I'm Fathan
 
-### Informatics Engineering Student
+### Informatics Engineering Student at Trunojoyo Madura University
 
 I'm interested in **Web Development, Backend Development, and Data Science**.
 
