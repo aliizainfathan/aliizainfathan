@@ -19,7 +19,8 @@ Currently learning and building projects with modern web technologies.
 
 ### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=phoenix,laravel,streamlit,flask,jquery" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,jquery" />
+  <img src="URL_LOGO_STREAMLIT" height="48" />
 </p>
 
 ### 🗄️ Database
